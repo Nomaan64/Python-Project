@@ -1,0 +1,10 @@
+python question0.py
+python question1a.py
+python question1b.py
+python question1c1.py
+python question1c2.py
+python question1c3.py
+python question1d.py
+python question1e.py
+python question2.py
+python question3.py
